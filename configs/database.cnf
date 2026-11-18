@@ -1,0 +1,6 @@
+# Database hardening — dipasang sebagai 99-webapp-hardening.cnf
+[mysqld]
+bind-address     = 127.0.0.1   # hanya loopback: database tidak terekspos ke IP publik
+skip-name-resolve              # tidak ada lookup DNS; akun dicocokkan via IP/localhost
+local_infile     = 0           # blokir LOAD DATA LOCAL INFILE
+max_connections  = 100
