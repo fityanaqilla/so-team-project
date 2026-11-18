@@ -1,9 +1,9 @@
 # Enterprise Multi-Tier Web Stack — UK5 Milestone 2
 
-Praktikum Sistem Operasi (21163120217) · Sekolah Vokasi UNS
+Praktikum Sistem Operasi · Sekolah Vokasi UNS
 Otomasi penuh stack **Nginx → Backend Python (systemd) → MariaDB** dengan satu perintah, idempoten, dan di-sandbox.
 
-> **Anggota tim:** _(isi nama & NIM)_ · **Kelas/Kelompok:** _(isi)_
+> **Anggota tim:** _(21116152610032 Fairuz Zharifah, 21116152610034 Fityan Aqilla Achmad, 21116152610040 M .Hammam Nafis Irawan, 21116152610044 Muhamad Alvin Hidayat)_ · **Kelas/Kelompok:** _(Kelas B/Kelompok 5)_
 
 ## Arsitektur
 
